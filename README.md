@@ -1,7 +1,7 @@
 # Freddie Partridge
 ## UCL Respiratory, Division of Medicine, University College London
 
-![Trichuris embedded in intestine](/images/trichuris.jpg)
+![Trichuris embedded in intestine](/images/trichuris.jpg| width=100)
 
 **Partridge FA,** Murphy EA, Willis NJ, Bataille CJ, Forman R, Heyer-Chauhan N,
 Marinič B, Sowood DJ, Wynne GM, Else KJ, Russell AJ, Sattelle DB.
