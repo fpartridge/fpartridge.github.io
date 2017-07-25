@@ -6,7 +6,7 @@ Marinič B, Sowood DJ, Wynne GM, Else KJ, Russell AJ, Sattelle DB.
 Dihydrobenz[e][1,4]oxazepin-2(3H)-ones, a new anthelmintic chemotype immobilising
 whipworm and reducing infectivity in vivo. PLoS Negl Trop Dis. 2017 Feb
 9;11(2):e0005359.
-[[link]](http://dx.doi.org/0.1371/journal.pntd.0005359)
+[[link]](http://dx.doi.org/10.1371/journal.pntd.0005359)
 
 Buckingham SD, **Partridge FA,** Sattelle DB. Automated, high-throughput, motility
 analysis in Caenorhabditis elegans and parasitic nematodes: Applications in the
