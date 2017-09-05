@@ -54,3 +54,8 @@ nematode killers from Paris. PLoS Biol. 2008 Dec 23;6(12):2634-7
 elegans glycosyltransferase BUS-8 has two distinct and essential roles in
 epidermal morphogenesis. Dev Biol. 2008 May 15;317(2):549-59.
 [[link]](http://dx.doi.org/10.1016/j.ydbio.2008.02.060)
+
+### Software
+[INVAPP / Paragon](https://github.com/fpartridge/invapp-paragon) 
+An automated system for analysing worm movement/growth from movies.
+
