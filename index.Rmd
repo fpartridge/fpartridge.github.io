@@ -11,15 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ### Preprints
-**Frederick A. Partridge,** Anwen E. Brown, Steven D. Buckingham, Nicky J. Willis, Graham M. Wynne, Ruth Forman, Kathryn J. Else, Alison A. Morrison, Jacqueline B. Matthews, Angela J. Russell, David A. Lomas, David B. Sattelle  
+**Frederick A. Partridge\*,** Anwen E. Brown\*, Steven D. Buckingham\*, Nicky J. Willis, Graham M. Wynne, Ruth Forman, Kathryn J. Else, Alison A. Morrison, Jacqueline B. Matthews, Angela J. Russell, David A. Lomas, David B. Sattelle (\*contributed equally)  
 An automated high-throughput system for phenotypic screening of chemical libraries on C. elegans and parasitic nematodes  
 bioRxiv 187427 [[link]](https://doi.org/10.1101/187427)
 
 ### Publications
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/trichuris_s.jpg)</div>
-**Partridge FA,** Murphy EA, Willis NJ, Bataille CJ, Forman R, Heyer-Chauhan N,
-Marinič B, Sowood DJ, Wynne GM, Else KJ, Russell AJ, Sattelle DB.
+**Partridge FA\*,** Murphy EA\*, Willis NJ\*, Bataille CJ, Forman R, Heyer-Chauhan N,
+Marinič B, Sowood DJ, Wynne GM, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
 Dihydrobenz[e][1,4]oxazepin-2(3H)-ones, a new anthelmintic chemotype immobilising
 whipworm and reducing infectivity in vivo.
 PLoS Negl Trop Dis. 2017 Feb

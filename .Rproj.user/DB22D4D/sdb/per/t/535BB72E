@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Freddie Partridge\"\noutput: html_document\ntheme: simplex\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n#### Centre for Respiratory Biology, Division of Medicine, University College London\n\n\n### Preprints\n**Frederick A. Partridge\\*,** Anwen E. Brown\\*, Steven D. Buckingham\\*, Nicky J. Willis, Graham M. Wynne, Ruth Forman, Kathryn J. Else, Alison A. Morrison, Jacqueline B. Matthews, Angela J. Russell, David A. Lomas, David B. Sattelle (\\*contributed equally)  \nAn automated high-throughput system for phenotypic screening of chemical libraries on C. elegans and parasitic nematodes  \nbioRxiv 187427 [[link]](https://doi.org/10.1101/187427)\n\n### Publications\n<div class=\"well clearfix\">\n<div style=\"width:120px; float:left; padding-right:15px\">![](images/trichuris_s.jpg)</div>\n**Partridge FA\\*,** Murphy EA\\*, Willis NJ\\*, Bataille CJ, Forman R, Heyer-Chauhan N,\nMarinič B, Sowood DJ, Wynne GM, Else KJ, Russell AJ, Sattelle DB (\\*contributed equally)  \nDihydrobenz[e][1,4]oxazepin-2(3H)-ones, a new anthelmintic chemotype immobilising\nwhipworm and reducing infectivity in vivo.\nPLoS Negl Trop Dis. 2017 Feb\n9;11(2):e0005359.\n[[link]](http://dx.doi.org/10.1371/journal.pntd.0005359)\n</div>\n\nBuckingham SD, **Partridge FA,** Sattelle DB. Automated, high-throughput, motility\nanalysis in Caenorhabditis elegans and parasitic nematodes: Applications in the\nsearch for new anthelmintics. Int J Parasitol Drugs Drug Resist. 2014 Oct\n30;4(3):226-32.\n[[link]](http://dx.doi.org/10.1016/j.ijpddr.2014.10.004)\n\nHurst RJ, Hopwood T, Gallagher AL, **Partridge FA,** Burgis T, Sattelle DB, Else\nKJ. An antagonist of the retinoid X receptor reduces the viability of Trichuris\nmuris in vitro. BMC Infect Dis. 2014 Sep 27;14:520.\n[[link]](http://dx.doi.org/10.1186/1471-2334-14-520)\n\nAnderson A, Laurenson-Schafer H, **Partridge FA,** Hodgkin J, McMullan R.\nSerotonergic chemosensory neurons modify the C. elegans immune response by\nregulating G-protein signaling in epithelial cells. PLoS Pathog.\n2013;9(12):e1003787.\n[[link]](http://dx.doi.org/10.1371/journal.ppat.1003787)\n\n**Partridge FA,** Gravato-Nobre MJ, Hodgkin J. Signal transduction pathways that\nfunction in both development and innate immunity. Dev Dyn. 2010\nMay;239(5):1330-6.\n[[link]](http://dx.doi.org/10.1002/dvdy.22232)\n\nHodgkin J, **Partridge FA.** Caenorhabditis elegans meets microsporidia: the\nnematode killers from Paris. PLoS Biol. 2008 Dec 23;6(12):2634-7\n[[link]](http://dx.doi.org/10.1371/journal.pbio.1000005)\n\n**Partridge FA,** Tearle AW, Gravato-Nobre MJ, Schafer WR, Hodgkin J. The C.\nelegans glycosyltransferase BUS-8 has two distinct and essential roles in\nepidermal morphogenesis. Dev Biol. 2008 May 15;317(2):549-59.\n[[link]](http://dx.doi.org/10.1016/j.ydbio.2008.02.060)\n\n### Software\n[INVAPP / Paragon](https://github.com/fpartridge/invapp-paragon) \nAn automated system for analysing worm movement/growth from movies.\n\n",
+    "created" : 1504024768213.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "940820937",
+    "id" : "535BB72E",
+    "lastKnownWriteTime" : 1505213295,
+    "last_content_update" : 1505213295812,
+    "path" : "~/GitHub/fpartridge.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
