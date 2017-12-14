@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/invapp-paragon_s.png)</div>
 **Frederick A. Partridge\*,** Anwen E. Brown\*, Steven D. Buckingham\*, Nicky J. Willis, Graham M. Wynne, Ruth Forman, Kathryn J. Else, Alison A. Morrison, Jacqueline B. Matthews, Angela J. Russell, David A. Lomas, David B. Sattelle (\*contributed equally)  
-An automated high-throughput system for phenotypic screening of chemical libraries on _C. elegans_ and parasitic nematodes. International Journal for Parasitology: Drugs and Drug Resistance [[link]](https://doi.org/10.1016/j.ijpddr.2017.11.004) [[preprint]](https://doi.org/10.1101/187427)
+An automated high-throughput system for phenotypic screening of chemical libraries on _C. elegans_ and parasitic nematodes. International Journal for Parasitology: Drugs and Drug Resistance 2018 8(1):8-21 [[link]](https://doi.org/10.1016/j.ijpddr.2017.11.004) [[pdf]](pdfs/partridge2018ijpddr.pdf)
 </div>
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/trichuris_s.jpg)</div>
