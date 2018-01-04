@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -122,7 +124,11 @@ $(document).ready(function () {
 
 <div id="centre-for-respiratory-biology-division-of-medicine-university-college-london" class="section level4">
 <h4>Centre for Respiratory Biology, Division of Medicine, University College London</h4>
-<!-- ### Preprints -->
+</div>
+<div id="preprints" class="section level3">
+<h3>Preprints</h3>
+<p>Matthews, B.J.*, Dudchenko, O.*, Kingan, S.*, Koren, S., Antoshechkin, I., Crawford, J.E., Glassford, W.J., Herre, M., Redmond, S.N., Rose, N.H., Weedall, G.D., Wu, Y., Batra, S.S., Brito-Sierra, C.A., Buckingham, S.D., Campbell, C.L., Chan, S., Cox, E., Evans, B.R., Fansiri, T., Filipovic, I., Fontaine, A., Gloria-Soria, A., Hall, R., Joardar, V.S., Jones, A.K., Kay, R.G.G., Kodali, V., Lee, J., Lycett, G.J., Mitchell, S.N., Muehling, J., Murphy, M.R., Omer, A., <strong>Partridge, F.A.</strong>, Peluso, P., Aiden, A.P., Ramasamy, V., Rasic, G., Roy, S., Saavedra-Rodriguez, K., Sharan, S., Sharma, A., Smith, M., Turner, J., Weakley, A.M., Zhao, Z., Akbari, O.S., Black, W.C., Cao, H., Darby, A.C., Hill, C., Johnston, J.S., Murphy, T.D., Raikhel, A.S., Sattelle, D.B., Sharakhov, I.V., White, B.J., Zhao, L., Aiden, E.L., Mann, R.S., Lambrechts, L., Powell, J.R., Sharakhova, M.V., Tu, Z., Robertson, H.M., McBride, C.S., Hastie, A.R., Korlach, J., Neafsey, D.E., Phillippy, A.M., Vosshall, L.B., 2017. (*contributed equally)<br />
+Improved <em>Aedes aegypti</em> mosquito reference genome assembly enables biological discovery and vector control. bioRxiv 240747. <a href="https://doi.org/10.1101/240747">[link]</a></p>
 </div>
 <div id="publications" class="section level3">
 <h3>Publications</h3>
