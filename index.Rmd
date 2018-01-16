@@ -18,8 +18,8 @@ Improved _Aedes aegypti_ mosquito reference genome assembly enables biological d
 ### Publications
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/invapp-paragon_s.png)</div>
-**Frederick A. Partridge\*,** Anwen E. Brown\*, Steven D. Buckingham\*, Nicky J. Willis, Graham M. Wynne, Ruth Forman, Kathryn J. Else, Alison A. Morrison, Jacqueline B. Matthews, Angela J. Russell, David A. Lomas, David B. Sattelle (\*contributed equally)  
-An automated high-throughput system for phenotypic screening of chemical libraries on _C. elegans_ and parasitic nematodes. International Journal for Parasitology: Drugs and Drug Resistance 2018 8(1):8-21 [[link]](https://doi.org/10.1016/j.ijpddr.2017.11.004) [[pdf]](pdfs/partridge2018ijpddr.pdf)
+**Partridge FA\*,** Brown AE\*, Buckingham SD\*, Willis NJ, Wynne GM, Forman R, Else KJ, Morrison AA, Matthews JB, Russell AJ, Lomas DA, Sattelle DB (\*contributed equally)  
+An automated high-throughput system for phenotypic screening of chemical libraries on _C. elegans_ and parasitic nematodes. _International Journal for Parasitology: Drugs and Drug Resistance_ 2018 8(1):8-21 [[link]](https://doi.org/10.1016/j.ijpddr.2017.11.004) [[pdf]](pdfs/partridge2018ijpddr.pdf)
 </div>
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/trichuris_s.jpg)</div>
@@ -30,6 +30,7 @@ whipworm and reducing infectivity _in vivo._
 PLoS Negl Trop Dis. 2017 Feb
 9;11(2):e0005359.
 [[link]](http://dx.doi.org/10.1371/journal.pntd.0005359)
+[[pdf]](pdfs/partridge2017plosntds.pdf)
 </div>
 
 Buckingham SD, **Partridge FA,** Sattelle DB. Automated, high-throughput, motility
