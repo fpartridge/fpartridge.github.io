@@ -20,6 +20,9 @@ Improved _Aedes aegypti_ mosquito reference genome assembly enables biological d
 
 
 ### Publications
+Furutani S\*, Ihara M\*, Lees K\*, Buckingham SD\*, **Partridge FA**, David JA, Patel R, Warchal S, Mellor IR, Matsuda K, Sattelle DB. (\*contributed equally)  
+The fungal alkaloid Okaramine-B activates an L-glutamate-gated chloride channel from _Ixodes scapularis,_ a tick vector of Lyme disease. International Journal for Parasitology: Drugs and Drug Resistance. 2018 [[link]](https://doi.org/10.1016/j.ijpddr.2018.06.001)
+
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/invapp-paragon_s.png)</div>
 **Partridge FA\*,** Brown AE\*, Buckingham SD\*, Willis NJ, Wynne GM, Forman R, Else KJ, Morrison AA, Matthews JB, Russell AJ, Lomas DA, Sattelle DB (\*contributed equally)  
