@@ -16,17 +16,20 @@ Improved _Aedes aegypti_ mosquito reference genome assembly enables biological d
 
 
 ### Publications
-
+<div class="well clearfix">
+<div style="width:120px; float:left; padding-right:15px">![](images/datp_s.png)</div>
 **Partridge FA**\*, Forman R\*, Willis NJ\*, Bataille CJR\*, Murphy EA, Brown AE, Heyer-Chauhan N, Marinič B, Sowood DJC, Wynne GM, Else KJ, Russell AJ, Sattelle DB, 2018 (\*contributed equally).  
-2,4-Diaminothieno[3,2-_d_]pyrimidines, a New Class of Anthelmintic with Activity against Adult and Egg Stages of Whipworm.  PLoS Negl Trop Dis 2018 _in press_  [[link]](https://doi.org/10.1101/254037)
+2,4-Diaminothieno[3,2-_d_]pyrimidines, a New Class of Anthelmintic with Activity against Adult and Egg Stages of Whipworm.  PLoS Negl Trop Dis 2018 _in press_  [[link]](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006487) [[preprint]](https://doi.org/10.1101/254037)
+</div>
 
 Furutani S\*, Ihara M\*, Lees K\*, Buckingham SD\*, **Partridge FA**, David JA, Patel R, Warchal S, Mellor IR, Matsuda K, Sattelle DB. (\*contributed equally)  
-The fungal alkaloid Okaramine-B activates an L-glutamate-gated chloride channel from _Ixodes scapularis,_ a tick vector of Lyme disease. International Journal for Parasitology: Drugs and Drug Resistance. 2018 8(2):350-360 [[link]](https://doi.org/10.1016/j.ijpddr.2018.06.001)
+The fungal alkaloid Okaramine-B activates an L-glutamate-gated chloride channel from _Ixodes scapularis,_ a tick vector of Lyme disease. International Journal for Parasitology: Drugs and Drug Resistance. 2018 8(2):350-360 [[link]](https://doi.org/10.1016/j.ijpddr.2018.06.001) [[pdf]](pdfs/furutani2018ijpddr.pdf)
 
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/invapp-paragon_s.png)</div>
 **Partridge FA\*,** Brown AE\*, Buckingham SD\*, Willis NJ, Wynne GM, Forman R, Else KJ, Morrison AA, Matthews JB, Russell AJ, Lomas DA, Sattelle DB (\*contributed equally)  
 An automated high-throughput system for phenotypic screening of chemical libraries on _C. elegans_ and parasitic nematodes. _International Journal for Parasitology: Drugs and Drug Resistance_ 2018 8(1):8-21 [[link]](https://doi.org/10.1016/j.ijpddr.2017.11.004) [[pdf]](pdfs/partridge2018ijpddr.pdf)
+[[preprint]](https://doi.org/10.1101/187427)
 </div>
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/trichuris_s.jpg)</div>
