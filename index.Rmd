@@ -19,7 +19,7 @@ Improved _Aedes aegypti_ mosquito reference genome assembly enables biological d
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/datp_s.png)</div>
 **Partridge FA**\*, Forman R\*, Willis NJ\*, Bataille CJR\*, Murphy EA, Brown AE, Heyer-Chauhan N, Marinič B, Sowood DJC, Wynne GM, Else KJ, Russell AJ, Sattelle DB, 2018 (\*contributed equally).  
-2,4-Diaminothieno[3,2-_d_]pyrimidines, a New Class of Anthelmintic with Activity against Adult and Egg Stages of Whipworm.  PLoS Negl Trop Dis 2018 _in press_  [[link]](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006487)
+2,4-Diaminothieno[3,2-_d_]pyrimidines, a New Class of Anthelmintic with Activity against Adult and Egg Stages of Whipworm.  PLoS Negl Trop Dis 2018 12(7):e0006487  [[link]](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006487)
 [[pdf]](pdfs/partridge2018plosntds.pdf)
 [[preprint]](https://doi.org/10.1101/254037)
 </div>
