@@ -8,6 +8,8 @@ theme: simplex
 knitr::opts_chunk$set(echo = TRUE)
 ```
 #### Centre for Respiratory Biology, Division of Medicine, University College London
+[[Google Scholar]](https://scholar.google.co.uk/citations?user=u_hixhoAAAAJ)
+[[ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
 ### Publications
 
