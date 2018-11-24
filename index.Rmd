@@ -14,7 +14,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Publications
 
 Matthews BJ\*, Dudchenko O\*, Kingan SB\*, Koren,  S, Antoshechkin I, Crawford JE, Glassford WJ, Herre M, Redmond SN, Rose NH, Weedall GD, Wu Y, Batra SS, Brito-Sierra CA, Buckingham SD, Campbell CL, Chan S, Cox E, Evans BR, Fansiri T, Filipovic I, Fontaine A, Gloria-Soria A, Hall R, Joardar VS, Jones AK, Kay RGG, Kodali V, Lee J, Lycett GJ, Mitchell SN, Muehling J, Murphy MR, Omer AD, **Partridge FA**, Peluso P, Aiden AP, Ramasamy V, Rašić G, Roy S, Saavedra-Rodriguez K, Sharan S, Sharma A, Smith ML, Turner J, Weakley AM, Zhao Z, Akbari OS, Black WC, Cao H, Darby AC, Hill CA, Johnston JS, Murphy TD, Raikhel AS, Sattelle DB, Sharakhov IV, White BJ, Zhao L, Aiden EL, Mann RS, Lambrechts L, Powell JR, Sharakhova MV, Tu Z, Robertson HM, McBride CS, Hastie AR, Korlach J, Neafsey DE, Phillippy AM, Vosshall LB (\*contributed equally)  
-Improved reference genome of _Aedes aegypti_ informs arbovirus vector control. _Nature in press_ 2018. [[preprint]](https://doi.org/10.1101/240747)
+Improved reference genome of _Aedes aegypti_ informs arbovirus vector control. _Nature_ 2018 563:501-507. 
+[[link]](https://www.nature.com/articles/s41586-018-0692-z)
+[[pdf]](pdfs/matthews2018nature.pdf)
+[[preprint]](https://doi.org/10.1101/240747)
 
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/datp_s.png)</div>
