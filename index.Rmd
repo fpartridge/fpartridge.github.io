@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Publications
 
-Faravelli G\*, Raimondi S\*, Marchese L, **Partridge FA**, Soria C, Mangione PP, Canetti D, Perni M, Aprile FA, Zorzoli I, et al. (\*contributed equally) _C. elegans_ expressing D76N β 2 -microglobulin: a model for _in vivo_ screening of drug candidates targeting amyloidosis. _Sci Rep_ 2019 9, 1–10.
+Faravelli G\*, Raimondi S\*, Marchese L, **Partridge FA**, Soria C, Mangione PP, Canetti D, Perni M, Aprile FA, Zorzoli I, Di Schiavi E, Lomas DA, Bellotti V, Sattelle DB, Giorgetti S (\*contributed equally) _C. elegans_ expressing D76N β~2~-microglobulin: a model for _in vivo_ screening of drug candidates targeting amyloidosis. _Sci Rep_ 2019 9, 1–10.
 [[link]](https://www.nature.com/articles/s41598-019-56498-5)
 [[pdf]](pdfs/faravelli2019scirep.pdf)
 
