@@ -1,0 +1,156 @@
+---
+title: "Comparing means from multiple groups of data"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(warning=FALSE, message=FALSE)
+```
+_Acknowledgements: I would really like to thank Alboukadel Kassambara for his excellent rstatix package and for the great tutorial https://www.datanovia.com/en/courses/comparing-multiple-means-in-r/ _
+
+# Part One: Parametric tests without repeated measures
+
+Probably you are familiar with the t-test for comparing the mean of two groups. Here we discuss what to do when you want to compare the mean of multiple groups. Typically this will have two steps:  
+
+1. an omnibus test e.g. a one-way ANOVA to see if you can reject the hypothesis that the groups are the same
+2. a post-hoc test where you adjust for multiple comparisons and identify which groups are different.
+
+#### Datasets used in this tutorial
+```{r}
+library(tidyverse)
+set.seed(5)
+datapoints <- 30
+df <- tibble(
+  temperature = rep(c(15,20,25,30),each = datapoints),
+  activity = c(rnorm(datapoints, mean = 5, sd = 2), 
+               rnorm(datapoints, mean = 5.5, sd = 2),
+               rnorm(datapoints, mean = 11, sd = 2),
+               rnorm(datapoints, mean = 9, sd = 2))
+)
+df$temperature <- as.factor(df$temperature)
+
+set.seed(5)
+dataset_treatment <- tibble(
+  treatment = rep(c('control','compoundA','compoundB','compundC'),each = datapoints),
+  activity = c(rnorm(datapoints, mean = 5, sd = 2), 
+               rnorm(datapoints, mean = 5.5, sd = 2),
+               rnorm(datapoints, mean = 11, sd = 2),
+               rnorm(datapoints, mean = 9, sd = 2))
+)
+dataset_treatment$treatment <- as.factor(dataset_treatment$treatment)
+
+
+```
+
+
+## One-way ANOVA and Welch's ANOVA
+
+### Summary checklist:
+
+1. Repeated Measures? YES- use something else
+2. Data approximately normally distributed?  
+    - Check with Q-Q plot and/or Shapiro-Wilk test
+    - If not: use a _non-parametric test_
+3. Variance of the data in each group approximately equal?
+    - If not: use _Welch’s ANOVA_ 
+4. Now conduct the One-way ANOVA
+5. Can you reject the hypothesis that all groups have equal means? If so carry on to a post-hoc test to find out which groups are different:
+    - Do you want to compare all the groups with each other? Use the _Tukey_ test.
+    - Do you want to compare multiple treatment groups with one control group? Use the _Dunnett_ test.
+
+However if you decide to use Welch's ANOVA given unequal variance between groups:
+
+4. Conduct Welch's ANOVA
+5. Use appropriate post-hoc tests
+
+
+### Assumptions of one-way ANOVA:
+
+1. independent observations - this is not for "repeated measures" 
+2. data for each group should be approximately normally distributed
+3. variance of the data for each group should be equal.
+
+
+#### Test for normality:
+
+1. Q-Q plot should be roughly linear
+```{r}
+qqnorm(df$activity)
+```
+
+2. Shapiro-Wilk test of normality for all the data grouped together (however for very large datasets even small deviations from normality may be significant in this test)
+```{r}
+library(rstatix)
+model  <- lm(activity ~ temperature, data = df)
+shapiro_test(residuals(model))
+```
+As the P-value is > 0.05 cannot reject the hypothesis that the data is normally distributed.
+
+3. If you have a decent number of points for each group, you can test each group separately for normality:
+```{r}
+df %>%
+  group_by(temperature) %>%
+  shapiro_test(activity)
+```
+or plot the Q-Q plot for each group
+```{r}
+library(ggpubr)
+ggqqplot(df, "activity", facet.by="temperature")
+```
+
+#### Check that the variance is approximately the same for each group
+
+Inspect with a boxplot:
+```{r}
+ggplot(df, aes(x=temperature, y=activity)) +
+  geom_boxplot()
+```
+
+
+Residuals plot: 
+```{r}
+plot(model,1)
+```
+
+Or Levene's test (more robust to departures from normality than the Bartlett’s test). 
+Read more about this here: https://uc-r.github.io/assumptions_homogeneity#levene
+
+```{r}
+df %>% levene_test(activity ~ temperature)
+```
+Can't reject the hypothesis that the variance of each group is the same.
+
+## Conducting the One-Way ANOVA
+remember is it dependent variable ~ independent variable
+```{r}
+anova.results <- df %>% anova_test(activity ~ temperature)
+anova.results
+```
+P < 0.05 therefore we reject the null hypothesis that all groups are the same.
+How to report this in a paper? 
+```{r}
+paste0('[F(', anova.results$DFn,',',anova.results$DFd,') = ',
+       anova.results$F, ', p = ',anova.results$p,']')
+```
+So write something like: A one-way ANOVA found that there was a significant effect of temperature on activity then add from above [F(n,n=xxx, p = xxx)] 
+
+## Post-hoc test after one-way ANOVA
+You need to use a post-hoc test that takes account of the fact that you are making multiple comparisons, you can't just do several t-tests.
+
+### For the situation where you want to compare each group with the others
+Here you use the Tukey HSD test:
+```{r}
+tukey_comparisons <- df %>% tukey_hsd(activity ~ temperature)
+tukey_comparisons
+```
+
+### For the situation where you want to compare one control group with multiple treatments
+```{r}
+anova.results <- dataset_treatment %>% anova_test(activity ~ treatment)
+anova.results
+```
+NEED TO WRITE THIS
+
+
