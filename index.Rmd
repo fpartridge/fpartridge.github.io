@@ -13,6 +13,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Publications
 
+**Partridge FA**\*, Forman R\*, Bataille CJR\*, Wynne GM, Nick M, Russell AJ, Else KJ, Sattelle DB (\*contributed equally) Anthelmintic drug discovery: target identification, screening methods and the role of open science _Beilstein J. Org. Chem._ 2020 16, 1203–1224. doi:10.3762/bjoc.16.105
+[[link]](https://www.beilstein-journals.org/bjoc/articles/16/105)
+[[pdf]](pdfs/partridge2020bjoc.pdf)
+
 Faravelli G\*, Raimondi S\*, Marchese L, **Partridge FA**, Soria C, Mangione PP, Canetti D, Perni M, Aprile FA, Zorzoli I, Di Schiavi E, Lomas DA, Bellotti V, Sattelle DB, Giorgetti S (\*contributed equally) _C. elegans_ expressing D76N β~2~-microglobulin: a model for _in vivo_ screening of drug candidates targeting amyloidosis. _Sci Rep_ 2019 9, 1–10.
 [[link]](https://www.nature.com/articles/s41598-019-56498-5)
 [[pdf]](pdfs/faravelli2019scirep.pdf)
