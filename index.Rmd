@@ -19,7 +19,9 @@ _Beilstein J. Org. Chem._ 2020 16, 1203–1224.
 [[link]](https://www.beilstein-journals.org/bjoc/articles/16/105)
 [[pdf]](pdfs/partridge2020bjoc.pdf)
 
-Faravelli G\*, Raimondi S\*, Marchese L, **Partridge FA**, Soria C, Mangione PP, Canetti D, Perni M, Aprile FA, Zorzoli I, Di Schiavi E, Lomas DA, Bellotti V, Sattelle DB, Giorgetti S (\*contributed equally) _C. elegans_ expressing D76N β~2~-microglobulin: a model for _in vivo_ screening of drug candidates targeting amyloidosis. _Sci Rep_ 2019 9, 1–10.
+Faravelli G\*, Raimondi S\*, Marchese L, **Partridge FA**, Soria C, Mangione PP, Canetti D, Perni M, Aprile FA, Zorzoli I, Di Schiavi E, Lomas DA, Bellotti V, Sattelle DB, Giorgetti S (\*contributed equally)  
+[_C. elegans_ expressing D76N β~2~-microglobulin: a model for _in vivo_ screening of drug candidates targeting amyloidosis.](https://www.nature.com/articles/s41598-019-56498-5)  
+_Sci Rep_ 2019 9, 1–10
 [[link]](https://www.nature.com/articles/s41598-019-56498-5)
 [[pdf]](pdfs/faravelli2019scirep.pdf)
 
