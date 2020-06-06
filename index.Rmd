@@ -13,7 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Publications
 
-**Partridge FA**\*, Forman R\*, Bataille CJR\*, Wynne GM, Nick M, Russell AJ, Else KJ, Sattelle DB (\*contributed equally) Anthelmintic drug discovery: target identification, screening methods and the role of open science _Beilstein J. Org. Chem._ 2020 16, 1203–1224. doi:10.3762/bjoc.16.105
+**Partridge FA**\*, Forman R\*, Bataille CJR\*, Wynne GM, Nick M, Russell AJ, Else KJ, Sattelle DB (\*contributed equally)  
+[Anthelmintic drug discovery: target identification, screening methods and the role of open science](https://www.beilstein-journals.org/bjoc/articles/16/105)  
+_Beilstein J. Org. Chem._ 2020 16, 1203–1224.
 [[link]](https://www.beilstein-journals.org/bjoc/articles/16/105)
 [[pdf]](pdfs/partridge2020bjoc.pdf)
 
