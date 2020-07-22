@@ -11,6 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=u_hixhoAAAAJ)
 [[![](images/ORCID-iD_icon-16x16.png)ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
+### Preprints
+Buckingham SD\*, **Partridge FA**\*, Poulton BC\*, Miller BS\*, McKendry RA, Lycett GJ, Sattelle DB (\*contributed equally)  
+[Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and smartphone-based detection of larval insecticide resistance](https://www.biorxiv.org/content/10.1101/2020.07.20.211946v1)  
+bioRxiv 2020.07.20.211946; doi: https://doi.org/10.1101/2020.07.20.211946 
+
 ### Publications
 
 **Partridge FA**\*, Forman R\*, Bataille CJR\*, Wynne GM, Nick M, Russell AJ, Else KJ, Sattelle DB (\*contributed equally)  
