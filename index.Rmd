@@ -12,6 +12,11 @@ knitr::opts_chunk$set(echo = TRUE)
 [[![](images/ORCID-iD_icon-16x16.png)ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
 ### Preprints
+
+**Partridge FA**\*, Bataille CJR\*, Forman R\*, Marriott AE\*, Häberli C\*, Dinsdale RL, O'Sullivan JDB, Willis N, Archer J, Steven A, Taylor MJ, Keiser J, Turner JD, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
+[Structural requirements for dihydrobenzoxazepinone anthelmintics: actions against medically important and model parasites - _Trichuris muris, Brugia malayi_ and _Heligmosomoides polygyrus_](https://www.biorxiv.org/content/10.1101/2020.11.17.384933v1)  
+bioRxiv 2020.11.17.384933; doi: https://doi.org/10.1101/2020.11.17.384933 
+
 Buckingham SD\*, **Partridge FA**\*, Poulton BC\*, Miller BS\*, McKendry RA, Lycett GJ, Sattelle DB (\*contributed equally)  
 [Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and smartphone-based detection of larval insecticide resistance](https://www.biorxiv.org/content/10.1101/2020.07.20.211946v1)  
 bioRxiv 2020.07.20.211946; doi: https://doi.org/10.1101/2020.07.20.211946 
