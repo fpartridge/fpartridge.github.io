@@ -13,15 +13,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Preprints
 
-**Partridge FA**\*, Bataille CJR\*, Forman R\*, Marriott AE\*, Häberli C\*, Dinsdale RL, O'Sullivan JDB, Willis N, Archer J, Steven A, Taylor MJ, Keiser J, Turner JD, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
-[Structural requirements for dihydrobenzoxazepinone anthelmintics: actions against medically important and model parasites - _Trichuris muris, Brugia malayi, Heligmosomoides polygyrus_ and _Schistosoma mansoni_](https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2)  
-bioRxiv 2020.11.17.384933; doi: https://doi.org/10.1101/2020.11.17.384933 
-
 Buckingham SD\*, **Partridge FA**\*, Poulton BC\*, Miller BS\*, McKendry RA, Lycett GJ, Sattelle DB (\*contributed equally)  
 [Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and smartphone-based detection of larval insecticide resistance](https://www.biorxiv.org/content/10.1101/2020.07.20.211946v1)  
 bioRxiv 2020.07.20.211946; doi: https://doi.org/10.1101/2020.07.20.211946 
 
 ### Publications
+<div class="well clearfix">
+<div style="width:120px; float:left; padding-right:15px">![](images/Cover-design-ACS-ID.png)</div>
+**Partridge FA**\*, Bataille CJR\*, Forman R\*, Marriott AE\*, Häberli C\*, Dinsdale RL, O'Sullivan JDB, Willis N, Archer J, Steven A, Taylor MJ, Keiser J, Turner JD, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
+Structural requirements for dihydrobenzoxazepinone anthelmintics: actions against medically important and model parasites - _Trichuris muris, Brugia malayi, Heligmosomoides polygyrus_ and _Schistosoma mansoni_  
+_ACS Infectious Diseases in press_ [[preprint]](https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2)
+</div>
+
 
 **Partridge FA**\*, Forman R\*, Bataille CJR\*, Wynne GM, Nick M, Russell AJ, Else KJ, Sattelle DB (\*contributed equally)  
 [Anthelmintic drug discovery: target identification, screening methods and the role of open science](https://www.beilstein-journals.org/bjoc/articles/16/105)  
