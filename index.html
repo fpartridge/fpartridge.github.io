@@ -19,16 +19,29 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,32 +54,7 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
 
 
 
@@ -76,10 +64,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -96,6 +80,9 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
@@ -108,7 +95,6 @@ summary {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -172,7 +158,7 @@ summary {
 
 
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -197,9 +183,9 @@ bioRxiv 2020.07.20.211946; doi: <a href="https://doi.org/10.1101/2020.07.20.2119
 <div style="width:120px; float:left; padding-right:15px">
 <img src="images/Cover-design-ACS-ID.png" />
 </div>
-<p><strong>Partridge FA</strong>*, Bataille CJR*, Forman R*, Marriott AE*, Häberli C*, Dinsdale RL, O’Sullivan JDB, Willis N, Archer J, Steven A, Taylor MJ, Keiser J, Turner JD, Else KJ, Russell AJ, Sattelle DB (*contributed equally)<br />
+<p><strong>Partridge FA</strong>*, Bataille CJR*, Forman R*, Marriott AE*, Forde-Thomas J*, Häberli C*, Dinsdale RL, O’Sullivan JDB, Willis N, Wynne GM, Whiteland H, Archer J, Steven A, Keiser J, Turner JD, Hoffmann KF, Taylor MJ, Else KJ, Russell AJ, Sattelle DB (*contributed equally)<br />
 Structural requirements for dihydrobenzoxazepinone anthelmintics: actions against medically important and model parasites - <em>Trichuris muris, Brugia malayi, Heligmosomoides polygyrus</em> and <em>Schistosoma mansoni</em><br />
-<em>ACS Infectious Diseases in press</em> <a href="https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2">[preprint]</a></p>
+<em>ACS Infectious Diseases in press</em> <a href="https://pubs.acs.org/doi/10.1021/acsinfecdis.1c00025">[link]</a> <a href="https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2">[preprint]</a></p>
 </div>
 <p><strong>Partridge FA</strong>*, Forman R*, Bataille CJR*, Wynne GM, Nick M, Russell AJ, Else KJ, Sattelle DB (*contributed equally)<br />
 <a href="https://www.beilstein-journals.org/bjoc/articles/16/105">Anthelmintic drug discovery: target identification, screening methods and the role of open science</a><br />
@@ -253,7 +239,7 @@ Dihydrobenz[<em>e</em>][1,4]oxazepin-2(3<em>H</em>)-ones, a new anthelmintic che
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -271,7 +257,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

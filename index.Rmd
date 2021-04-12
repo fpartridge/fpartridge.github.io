@@ -20,9 +20,10 @@ bioRxiv 2020.07.20.211946; doi: https://doi.org/10.1101/2020.07.20.211946
 ### Publications
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/Cover-design-ACS-ID.png)</div>
-**Partridge FA**\*, Bataille CJR\*, Forman R\*, Marriott AE\*, Häberli C\*, Dinsdale RL, O'Sullivan JDB, Willis N, Archer J, Steven A, Taylor MJ, Keiser J, Turner JD, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
+**Partridge FA**\*, Bataille CJR\*, Forman R\*, Marriott AE\*, Forde-Thomas J\*, Häberli C\*, Dinsdale RL, O'Sullivan JDB, Willis N, Wynne GM, Whiteland H, Archer J, Steven A,  Keiser J, Turner JD, Hoffmann KF, Taylor MJ, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
 Structural requirements for dihydrobenzoxazepinone anthelmintics: actions against medically important and model parasites - _Trichuris muris, Brugia malayi, Heligmosomoides polygyrus_ and _Schistosoma mansoni_  
-_ACS Infectious Diseases in press_ [[preprint]](https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2)
+_ACS Infectious Diseases in press_ [[link]](https://pubs.acs.org/doi/10.1021/acsinfecdis.1c00025)
+[[preprint]](https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2)
 </div>
 
 
