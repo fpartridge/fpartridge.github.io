@@ -11,18 +11,21 @@ knitr::opts_chunk$set(echo = TRUE)
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=u_hixhoAAAAJ)
 [[![](images/ORCID-iD_icon-16x16.png)ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
-### Preprints
+<!-- ### Preprints -->
 
-Buckingham SD\*, **Partridge FA**\*, Poulton BC\*, Miller BS\*, McKendry RA, Lycett GJ, Sattelle DB (\*contributed equally)  
-[Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and smartphone-based detection of larval insecticide resistance](https://www.biorxiv.org/content/10.1101/2020.07.20.211946v1)  
-bioRxiv 2020.07.20.211946; doi: https://doi.org/10.1101/2020.07.20.211946 
 
 ### Publications
+
+Buckingham SD\*, **Partridge FA**\*, Poulton BC\*, Miller BS\*, McKendry RA, Lycett GJ, Sattelle DB (\*contributed equally)  
+[Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and smartphone-based detection of larval insecticide resistance](https://www.biorxiv.org/content/10.1101/2020.07.20.211946v2)  
+_PLOS Neglected Tropical Dieases in press_ [[preprint]](https://www.biorxiv.org/content/10.1101/2020.07.20.211946v2) 
+
 <div class="well clearfix">
 <div style="width:120px; float:left; padding-right:15px">![](images/Cover-design-ACS-ID.png)</div>
 <div style="overflow:hidden;">**Partridge FA**\*, Bataille CJR\*, Forman R\*, Marriott AE\*, Forde-Thomas J\*, Häberli C\*, Dinsdale RL, O'Sullivan JDB, Willis N, Wynne GM, Whiteland H, Archer J, Steven A,  Keiser J, Turner JD, Hoffmann KF, Taylor MJ, Else KJ, Russell AJ, Sattelle DB (\*contributed equally)  
 Structural requirements for dihydrobenzoxazepinone anthelmintics: actions against medically important and model parasites - _Trichuris muris, Brugia malayi, Heligmosomoides polygyrus_ and _Schistosoma mansoni_  
-_ACS Infectious Diseases in press_ [[link]](https://pubs.acs.org/doi/10.1021/acsinfecdis.1c00025)
+_ACS Infectious Diseases_ 2021 7, 1260−1274 [[link]](https://pubs.acs.org/doi/10.1021/acsinfecdis.1c00025)
+[[pdf]](pdfs/partridge2021acsid.pdf)
 [[preprint]](https://www.biorxiv.org/content/10.1101/2020.11.17.384933v2)
 </div>
 </div>
