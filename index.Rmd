@@ -11,7 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=u_hixhoAAAAJ)
 [[![](images/ORCID-iD_icon-16x16.png)ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
-<!-- ### Preprints -->
+### Preprints
+
+**Partridge FA**\*, Poulton BC\*, Lake, MAI\*, Lees, RA, Mann H-J, Lycett GJ, Sattelle DB (\*contributed equally)  
+[Actions of camptothecin derivatives on larvae and adults of the arboviral vector _Aedes aegypti_](https://www.biorxiv.org/content/10.1101/2021.09.06.458863)  
+bioRxiv 2021.09.06.458863; doi: https://doi.org/10.1101/2021.09.06.458863 
 
 
 ### Publications
