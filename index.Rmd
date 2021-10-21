@@ -11,14 +11,16 @@ knitr::opts_chunk$set(echo = TRUE)
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=u_hixhoAAAAJ)
 [[![](images/ORCID-iD_icon-16x16.png)ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
-### Preprints
-
-**Partridge FA**\*, Poulton BC\*, Lake, MAI\*, Lees, RA, Mann H-J, Lycett GJ, Sattelle DB (\*contributed equally)  
-[Actions of camptothecin derivatives on larvae and adults of the arboviral vector _Aedes aegypti_](https://www.biorxiv.org/content/10.1101/2021.09.06.458863)  
-bioRxiv 2021.09.06.458863; doi: https://doi.org/10.1101/2021.09.06.458863 
-
+<!--### Preprints-->
 
 ### Publications
+
+**Partridge FA**\*, Poulton BC\*, Lake, MAI\*, Lees, RA, Mann H-J, Lycett GJ, Sattelle DB (\*contributed equally)  
+[Actions of camptothecin derivatives on larvae and adults of the arboviral vector _Aedes aegypti_](https://www.mdpi.com/1420-3049/26/20/6226)  
+_Molecules_ 2021 26, 6226 
+[[link]](https://www.mdpi.com/1420-3049/26/20/6226)
+[[pdf]](pdfs/partridge2021molecules.pdf)
+[[preprint]](https://www.biorxiv.org/content/10.1101/2021.09.06.458863)
 
 Buckingham SD\*, **Partridge FA**\*, Poulton BC\*, Miller BS\*, McKendry RA, Lycett GJ, Sattelle DB (\*contributed equally)  
 [Automated phenotyping of mosquito larvae enables high-throughput screening for novel larvicides and smartphone-based detection of larval insecticide resistance](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008639)  
