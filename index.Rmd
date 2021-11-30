@@ -15,9 +15,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Publications
 
+Forman R, **Partridge FA**, Sattelle DB, Else KJ  
+[Un-‘Egg’-Plored: Characterisation of Embryonation in the Whipworm Model Organism _Trichuris muris_](https://www.frontiersin.org/articles/10.3389/fitd.2021.790311/full)  
+_Frontiers in Tropical Diseases_ 2021 2, 45 
+[[link]](https://www.frontiersin.org/articles/10.3389/fitd.2021.790311/full)
+[[pdf]](pdfs/forman2021fronttropdis.pdf)  
+
 **Partridge FA**\*, Poulton BC\*, Lake, MAI\*, Lees, RA, Mann H-J, Lycett GJ, Sattelle DB (\*contributed equally)  
 [Actions of camptothecin derivatives on larvae and adults of the arboviral vector _Aedes aegypti_](https://www.mdpi.com/1420-3049/26/20/6226)  
-_Molecules_ 2021 26, 6226 
+_Molecules_ 2021 26, 6226
 [[link]](https://www.mdpi.com/1420-3049/26/20/6226)
 [[pdf]](pdfs/partridge2021molecules.pdf)
 [[preprint]](https://www.biorxiv.org/content/10.1101/2021.09.06.458863)
