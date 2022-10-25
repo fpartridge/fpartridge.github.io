@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Publications
 
 Nick M, **Partridge FA**, Forman R, Bataille CJR, Else KJ, Russell AJ, Sattelle DB  
-[Screening the Medicines for Malaria Venture (MMV) Pandemic Response Box chemical library on Caenorhabditis elegans identifies re-profiled candidate anthelmintic drug leads](https://www.frontiersin.org/articles/10.3389/fitd.2022.1017900/full)  
+[Screening the Medicines for Malaria Venture (MMV) Pandemic Response Box chemical library on _Caenorhabditis elegans_ identifies re-profiled candidate anthelmintic drug leads](https://www.frontiersin.org/articles/10.3389/fitd.2022.1017900/full)  
 _Front. Trop. Dis._ 2022 3:1017900. doi: 10.3389/fitd.2022.1017900 [[link]](https://www.frontiersin.org/articles/10.3389/fitd.2022.1017900/full)
 [[pdf]](pdfs/nick2022fronttropdis.pdf)
 [[preprint]](https://www.biorxiv.org/content/10.1101/2022.08.10.503491v1)
