@@ -7,13 +7,20 @@ theme: simplex
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-#### Centre for Respiratory Biology, Division of Medicine, University College London
+#### School of Life Sciences, University of Westminster
 [[Google Scholar]](https://scholar.google.co.uk/citations?user=u_hixhoAAAAJ)
 [[![](images/ORCID-iD_icon-16x16.png)ORCiD]](https://orcid.org/0000-0001-6236-4297)
 
 <!--### Preprints-->
 
 ### Publications
+
+Coghlan A\*, **Partridge FA**\*, Duque-Correa MA\*, Rinaldi G\*, Clare S, Seymour L, Brandt C, Mkandawire TT, McCarthy C, Holroyd N, Nick M, Brown AE, Tonitiwong S, Sattelle DB, Berriman M (\*contributed equally)    
+[A drug repurposing screen for whipworms informed by comparative genomics.](https://doi.org/10.1371/journal.pntd.0011205)  
+_PLoS Negl Trop Dis_ 2023 17(9): e0011205. 
+[[link]](https://doi.org/10.1371/journal.pntd.0011205) 
+[[pdf]](pdfs/coghlan2023plosntds.pdf) 
+[[preprint]](https://www.biorxiv.org/content/10.1101/2023.03.02.530747v1)
 
 Nick M, **Partridge FA**, Forman R, Bataille CJR, Else KJ, Russell AJ, Sattelle DB  
 [Screening the Medicines for Malaria Venture (MMV) Pandemic Response Box chemical library on _Caenorhabditis elegans_ identifies re-profiled candidate anthelmintic drug leads](https://www.frontiersin.org/articles/10.3389/fitd.2022.1017900/full)  
