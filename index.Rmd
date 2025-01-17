@@ -15,6 +15,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Publications
 
+Ramos-Sevillano E, Ercoli G, Betts M, Guerra-Assunção JA, Iverson A, Frank M, **Partridge F**, Lo SW, Fernandes VE, Nasher F, Wall E, Wren B, Gordon SB, Ferreira DM, Heyderman R, Rosch J, Brown JS.  
+[Essential role of proline synthesis and the one-carbon metabolism pathways for systemic virulence of _Streptococcus pneumoniae_](https://journals.asm.org/doi/full/10.1128/mbio.01758-24?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)  
+_mBio_ 2024 Nov 13;15(11):e0175824.  
+[[link]](https://doi.org/10.1128/mbio.01758-24)
+[[pdf]](pdfs/ramos-sevillano2024mbio.pdf)
+[[preprint]](https://www.biorxiv.org/content/10.1101/2023.08.03.550501v1.article-info)
+
 Coghlan A\*, **Partridge FA**\*, Duque-Correa MA\*, Rinaldi G\*, Clare S, Seymour L, Brandt C, Mkandawire TT, McCarthy C, Holroyd N, Nick M, Brown AE, Tonitiwong S, Sattelle DB, Berriman M (\*contributed equally)    
 [A drug repurposing screen for whipworms informed by comparative genomics.](https://doi.org/10.1371/journal.pntd.0011205)  
 _PLoS Negl Trop Dis_ 2023 17(9): e0011205. 
